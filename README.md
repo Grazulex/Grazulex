@@ -1,11 +1,4 @@
-<style>
-  table {
-    padding: 0;
-    border-collapse: collapse;
-    border: none;
-}
-</style>
-<table border="0">
+<table border="none">
   <tr>
     <td>
       <img src="/github-metrics.svg" alt="Metrics" width="100%">
