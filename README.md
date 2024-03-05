@@ -1,3 +1,10 @@
+<style>
+  table {
+    padding: 0;
+    border-collapse: collapse;
+    border: none;
+}
+</style>
 <table border="0">
   <tr>
     <td>
