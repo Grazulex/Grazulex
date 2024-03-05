@@ -1,10 +1,4 @@
-<table border="0">
- <tr>
-    <td> ![Metrics](/metrics.classic.svg) </td>
-    <td> ![Metrics](/metrics.plugin.habits.charts.svg) </td>
- </tr>
- <tr>
-    <td> ![Metrics](/metrics.plugin.isocalendar.fullyear.svg) </td>
-    <td> ![Metrics](/metrics.plugin.habits.facts.svg) </td>
- </tr>
-</table>
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+<img src="/metrics.plugin.habits.charts.svg" alt="Metrics" width="100%">
+<img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="100%">
+<img src="/metrics.plugin.habits.facts.svg" alt="Metrics" width="100%">
