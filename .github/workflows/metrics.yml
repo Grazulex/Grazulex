@@ -14,6 +14,14 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, repositories
+          plugin_lines: yes
+          config_display: columns
       - name : Classic
         uses: lowlighter/metrics@latest
         with:
