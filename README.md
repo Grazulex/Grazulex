@@ -40,7 +40,7 @@ PHP · Laravel · Bash · Python · GDScript · SQL · Markdown · Vim · Linux 
 | [`laravel-flowpipe`](https://github.com/grazulex/laravel-flowpipe)     | Composable pipelines   | [![Total Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-flowpipe)](https://packagist.org/packages/grazulex/laravel-flowpipe)     |
 | [`laravel-statecraft`](https://github.com/grazulex/laravel-statecraft) | State machines         | [![Total Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-statecraft)](https://packagist.org/packages/grazulex/laravel-statecraft) |
 | [`laravel-safeguard`](https://github.com/grazulex/laravel-safeguard)   | Config/security checks | [![Total Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-safeguard)](https://packagist.org/packages/grazulex/laravel-safeguard)   |
-| [`laravel-safeguard`](https://github.com/grazulex/laravel-tddraft)   | Testing TDD | [![Total Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-tddraft)](https://packagist.org/packages/grazulex/laravel-tddraft)   |
+| [`laravel-tddraft`](https://github.com/grazulex/laravel-tddraft)   | Testing TDD | [![Total Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-tddraft)](https://packagist.org/packages/grazulex/laravel-tddraft)   |
 
 ---
 
