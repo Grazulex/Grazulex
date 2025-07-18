@@ -34,13 +34,12 @@ PHP · Laravel · Bash · Python · GDScript · SQL · Markdown · Vim · Linux 
 
 ## 🔭 Current Focus
 
-- 🌱 Building modular Laravel packages:
-  - [`laravel-arc`](https://github.com/grazulex/laravel-arc) [![Total Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-arc)](https://packagist.org/packages/grazulex/laravel-arc) – DTO generation
-  - [`laravel-flowpipe`](https://github.com/grazulex/laravel-flowpipe) [![Total Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-flowpipe)](https://packagist.org/packages/grazulex/laravel-flowpipe) – composable pipelines
-  - [`laravel-statecraft`](https://github.com/grazulex/laravel-statecraft) [![Total Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-statecraft)](https://packagist.org/packages/grazulex/laravel-statecraft) – state machines
-  - [`laravel-safeguard`](https://github.com/grazulex/laravel-safeguard) [![Total Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-safeguard)](https://packagist.org/packages/grazulex/laravel-safeguard) – config security checks
-- 🎮 GameDev side-projects with Godot and Raylib (`Moo Wars`)
-- 🧪 CLI and automation tools (`gpgpass`, `lazyeasy`, `DoFiMa`, etc.)
+| Package                                                                | Description            | Downloads                                                                                                                                         |
+| ---------------------------------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [`laravel-arc`](https://github.com/grazulex/laravel-arc)               | DTO generation         | [![Total Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-arc)](https://packagist.org/packages/grazulex/laravel-arc)               |
+| [`laravel-flowpipe`](https://github.com/grazulex/laravel-flowpipe)     | Composable pipelines   | [![Total Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-flowpipe)](https://packagist.org/packages/grazulex/laravel-flowpipe)     |
+| [`laravel-statecraft`](https://github.com/grazulex/laravel-statecraft) | State machines         | [![Total Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-statecraft)](https://packagist.org/packages/grazulex/laravel-statecraft) |
+| [`laravel-safeguard`](https://github.com/grazulex/laravel-safeguard)   | Config/security checks | [![Total Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-safeguard)](https://packagist.org/packages/grazulex/laravel-safeguard)   |
 
 ---
 
