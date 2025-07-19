@@ -41,6 +41,8 @@ PHP · Laravel · Bash · Python · GDScript · SQL · Markdown · Vim · Linux 
 | [`laravel-statecraft`](https://github.com/grazulex/laravel-statecraft) | State machines         | [![Total Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-statecraft)](https://packagist.org/packages/grazulex/laravel-statecraft) |
 | [`laravel-safeguard`](https://github.com/grazulex/laravel-safeguard)   | Config/security checks | [![Total Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-safeguard)](https://packagist.org/packages/grazulex/laravel-safeguard)   |
 | [`laravel-tddraft`](https://github.com/grazulex/laravel-tddraft)   | Testing TDD | [![Total Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-tddraft)](https://packagist.org/packages/grazulex/laravel-tddraft)   |
+| [`laravel-snapshot`](https://github.com/grazulex/laravel-snapshot)   | Model auditing | [![Total Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-snapshot)](https://packagist.org/packages/grazulex/laravel-snapshot)   |
+
 
 ---
 
