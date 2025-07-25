@@ -44,6 +44,7 @@ PHP · Laravel · Bash · Python · GDScript · SQL · Markdown · Vim · Linux 
 | [`laravel-snapshot`](https://github.com/grazulex/laravel-snapshot)   | Model auditing | [![Total Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-snapshot)](https://packagist.org/packages/grazulex/laravel-snapshot)   |
 | [`laravel-atlas`](https://github.com/grazulex/laravel-atlas)   | App mapping | [![Total Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-atlas)](https://packagist.org/packages/grazulex/laravel-atlas)   |
 | [`laravel-configrypt`](https://github.com/grazulex/laravel-configrypt)   | Security config | [![Total Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-configrypt)](https://packagist.org/packages/grazulex/laravel-configrypt)   |
+| [`laravel-devtoolbox`](https://github.com/grazulex/laravel-devtoolbox)   | Tools for dev | [![Total Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-devtoolbox)](https://packagist.org/packages/grazulex/laravel-devtoolbox)   |
 
 
 
