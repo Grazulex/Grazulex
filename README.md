@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Jean-Marc%20Strauven&fontSize=50&fontAlignY=35&desc=@grazulex%20•%20Laravel%20Artisan%20•%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18"/>
+  <img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28&height=200&section=header&text=Jean-Marc%20Strauven&fontSize=50&fontAlignY=35&desc=@grazulex%20•%20Laravel%20Artisan%20•%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18"/>
 </div>
 
 <div align="center">
@@ -15,10 +15,10 @@
   <a href="https://www.linkedin.com/in/jean-marc-strauven/">
     <img src="https://img.shields.io/badge/💼%20LinkedIn-Jean--Marc%20Strauven-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/grazulex?tab=followers">
-    <img src="https://img.shields.io/github/followers/grazulex?style=for-the-badge&logo=github&logoColor=white&label=👥%20Followers&color=181717" alt="GitHub Followers"/>
+  <a href="https://github.com/grazulex">
+    <img src="https://img.shields.io/badge/👨‍💻%20GitHub-@grazulex-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=grazulex&style=for-the-badge&color=2E86AB&label=👀%20Profile%20Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=grazulex&style=for-the-badge&color=2E86AB&label=👀%20Views" alt="Profile Views"/>
 </div>
 
 <br/>
@@ -189,5 +189,5 @@ mindmap
 </div>
 
 <div align="center">
-  <img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
+  <img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28&height=120&section=footer"/>
 </div>
