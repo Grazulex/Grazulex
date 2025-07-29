@@ -176,7 +176,7 @@ mindmap
   <a href="https://www.linkedin.com/in/jean-marc-strauven/">
     <img src="https://img.shields.io/badge/💼%20Connect%20on%20LinkedIn-Jean--Marc%20Strauven-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:jean-marc.strauven@example.com">
+  <a href="mailto:jms@grazulex.be">
     <img src="https://img.shields.io/badge/📧%20Email%20Me-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   
