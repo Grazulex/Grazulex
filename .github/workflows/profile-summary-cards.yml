@@ -2,8 +2,11 @@ name: Update GitHub Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 2 * * *" # Chaque jour à 2h UTC
-  workflow_dispatch: # Pour le lancer manuellement
+    - cron: "0 2 * * *" # Tous les jours à 2h UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write   # <-- Donne l'autorisation d'écrire sur le dépôt
 
 jobs:
   build:
@@ -13,7 +16,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          persist-credentials: false # nécessaire pour le push
+          persist-credentials: false
 
       - name: Generate GitHub Profile Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
@@ -21,7 +24,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: grazulex
-          BRANCH_NAME: main # ou master selon le nom de ta branche
+          BRANCH_NAME: main
           UTC_OFFSET: "+2"
 
       - name: Commit and push changes
@@ -30,7 +33,8 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
           git commit -m "🔄 Update GitHub Profile Summary Cards" || echo "No changes to commit"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
+          git push
+
 
       - name: Clear GitHub Readme Stats cache
         run: curl -s -X POST https://github-readme-stats.vercel.app/api/pin/?username=grazulex&repo=laravel-arc
