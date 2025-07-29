@@ -15,7 +15,7 @@ jobs:
         with:
           fetch-depth: 0
           ref: profile-cards
-          persist-credentials: false
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate GitHub Profile Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
