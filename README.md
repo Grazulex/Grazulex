@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://grazulex.dev"><img src="https://img.shields.io/badge/🌐%20Website-Visit-0078D4?style=for-the-badge" /></a>
   <a href="https://opensourcemyfriend.hashnode.dev/"><img src="https://img.shields.io/badge/📝%20Blog-Hashnode-blue?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/jean-marc-strauven/"><img src="https://img.shields.io/badge/LinkedIn-JeanMarcStra-0A66C2?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/grazulex?tab=followers"><img src="https://img.shields.io/github/followers/grazulex?style=for-the-badge" /></a>
 </p>
 
@@ -69,8 +69,7 @@
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://grazulex.dev"><img src="https://img.shields.io/badge/🌐%20Website-grazulex.dev-0078D4?style=for-the-badge" /></a>
   <a href="https://opensourcemyfriend.hashnode.dev"><img src="https://img.shields.io/badge/Blog-OpenSourceMyFriend-2962FF?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/jean-marc-strauven/"><img src="https://img.shields.io/badge/LinkedIn-JeanMarcStra-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/grazulex?tab=followers"><img src="https://img.shields.io/github/followers/grazulex?style=for-the-badge" /></a>
 </p>
-
