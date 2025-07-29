@@ -1,66 +1,5 @@
 <div align="center">
-  <img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom<br/>
-
-## 💡 What I'm About
-
-<div align="center">
-  
-```mermaid
-mindmap
-  root((Jean-Marc))
-    Laravel Ecosystem
-      Package Development
-      Clean Architecture
-      Best Practices
-    Open Source
-      Community Building
-      Knowledge Sharing
-      Collaboration
-    Development Philosophy
-      TDD Approach
-      SOLID Principles
-      Clean Code
-```
-
-</div>
-
-<div align="center">
-
-### 🎯 Current Focus
-- 🔧 **Building Laravel packages** that solve real-world problems
-- 📚 **Sharing knowledge** through blog posts and open source
-- 🌟 **Contributing** to the Laravel ecosystem
-- 🤝 **Mentoring** developers in clean code practices
-
-</div>
-
-<br/>
-
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-  
-  <a href="https://opensourcemyfriend.hashnode.dev">
-    <img src="https://img.shields.io/badge/📖%20Read%20My%20Blog-OpenSourceMyFriend-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jean-marc-strauven/">
-    <img src="https://img.shields.io/badge/💼%20Connect%20on%20LinkedIn-Jean--Marc%20Strauven-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:jean-marc.strauven@example.com">
-    <img src="https://img.shields.io/badge/📧%20Email%20Me-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  
-</div>
-
-<div align="center">
-  
-  *"Code is like humor. When you have to explain it, it's bad."* - Cory House
-  
-</div>
-
-<div align="center">
-  <img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
-</div>=0,2,2,5,30&height=200&section=header&text=Jean-Marc%20Strauven&fontSize=50&fontAlignY=35&desc=@grazulex%20•%20Laravel%20Artisan%20•%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18"/>
+  <img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Jean-Marc%20Strauven&fontSize=50&fontAlignY=35&desc=@grazulex%20•%20Laravel%20Artisan%20•%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18"/>
 </div>
 
 <div align="center">
@@ -142,7 +81,7 @@ mindmap
 
 <br/>
 
-## � Featured Laravel Packages
+## 🚀 Featured Laravel Packages
 
 <div align="center">
 
@@ -190,12 +129,65 @@ mindmap
 
 </div>
 
----
+<br/>
 
-## 🤝 Let's Connect
+## 💡 What I'm About
 
-<p align="center">
-  <a href="https://opensourcemyfriend.hashnode.dev"><img src="https://img.shields.io/badge/Blog-OpenSourceMyFriend-2962FF?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/jean-marc-strauven/"><img src="https://img.shields.io/badge/LinkedIn-JeanMarcStra-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/grazulex?tab=followers"><img src="https://img.shields.io/github/followers/grazulex?style=for-the-badge" /></a>
-</p>
+<div align="center">
+  
+```mermaid
+mindmap
+  root((Jean-Marc))
+    Laravel Ecosystem
+      Package Development
+      Clean Architecture
+      Best Practices
+    Open Source
+      Community Building
+      Knowledge Sharing
+      Collaboration
+    Development Philosophy
+      TDD Approach
+      SOLID Principles
+      Clean Code
+```
+
+</div>
+
+<div align="center">
+
+### 🎯 Current Focus
+- 🔧 **Building Laravel packages** that solve real-world problems
+- 📚 **Sharing knowledge** through blog posts and open source
+- 🌟 **Contributing** to the Laravel ecosystem
+- 🤝 **Mentoring** developers in clean code practices
+
+</div>
+
+<br/>
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+  
+  <a href="https://opensourcemyfriend.hashnode.dev">
+    <img src="https://img.shields.io/badge/📖%20Read%20My%20Blog-OpenSourceMyFriend-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jean-marc-strauven/">
+    <img src="https://img.shields.io/badge/💼%20Connect%20on%20LinkedIn-Jean--Marc%20Strauven-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jean-marc.strauven@example.com">
+    <img src="https://img.shields.io/badge/📧%20Email%20Me-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  
+</div>
+
+<div align="center">
+  
+  *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+  
+</div>
+
+<div align="center">
+  <img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
+</div>
