@@ -2,7 +2,7 @@ name: Update GitHub Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 2 * * *"
+    - cron: "0 2 * * *"   # Every day at 02:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -10,11 +10,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout profile-cards branch
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          ref: main
+          ref: profile-cards
           persist-credentials: false
 
       - name: Generate GitHub Profile Summary Cards
@@ -23,17 +23,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: grazulex
-          BRANCH_NAME: main
+          BRANCH_NAME: profile-cards
           UTC_OFFSET: "+2"
+          AUTO_PUSH: true  # Let the action commit & push
 
-      - name: Commit and push changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add .
-          git commit -m "🔄 Update GitHub Profile Summary Cards" || echo "No changes"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
-
-      - name: Clear GitHub Readme Stats cache
-        run: curl -s -X POST https://github-readme-stats.vercel.app/api/pin/?username=grazulex&repo=laravel-arc
-
+      # Optional: clear cache for pinned repo cards (uncomment & duplicate per repo if needed)
+      # - name: Clear GitHub Readme Stats cache (example for laravel-arc)
+      #   run: curl -s -X POST "https://github-readme-stats.vercel.app/api/pin/?username=grazulex&repo=laravel-arc"

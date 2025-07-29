@@ -15,13 +15,13 @@
 
 ## 📊 GitHub Dashboard
 
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grazulex&theme=github_dark) |
+| ![](https://raw.githubusercontent.com/grazulex/grazulex/profile-cards/profile-summary-card-output/github_dark/0-profile-details.svg) |
 | :----------------------------------------------------------------------------------------------------------------: |
 
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=grazulex&theme=github_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=grazulex&theme=github_dark) |
+| ![](https://raw.githubusercontent.com/grazulex/grazulex/profile-cards/profile-summary-card-output/github_dark/1-repos-per-language.svg) | ![](https://raw.githubusercontent.com/grazulex/grazulex/profile-cards/profile-summary-card-output/github_dark/2-most-commit-language.svg) |
 | :-------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
 
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=grazulex&theme=github_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=grazulex&theme=github_dark&utcOffset=+2) |
+| ![](https://raw.githubusercontent.com/grazulex/grazulex/profile-cards/profile-summary-card-output/github_dark/3-stats.svg) | ![](https://raw.githubusercontent.com/grazulex/grazulex/profile-cards/profile-summary-card-output/github_dark/4-productive-time.svg) |
 | :------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
 
 ---
@@ -40,29 +40,17 @@
 
 ## 🔭 Current Focus: My Laravel Packages
 
-<p align="center">
-  <a href="https://github.com/grazulex/laravel-arc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=grazulex&repo=laravel-arc&theme=github_dark&show_owner=true" /></a>
-  <a href="https://github.com/grazulex/laravel-flowpipe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=grazulex&repo=laravel-flowpipe&theme=github_dark&show_owner=true" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/grazulex/laravel-statecraft"><img src="https://github-readme-stats.vercel.app/api/pin/?username=grazulex&repo=laravel-statecraft&theme=github_dark&show_owner=true" /></a>
-  <a href="https://github.com/grazulex/laravel-safeguard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=grazulex&repo=laravel-safeguard&theme=github_dark&show_owner=true" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/grazulex/laravel-tddraft"><img src="https://github-readme-stats.vercel.app/api/pin/?username=grazulex&repo=laravel-tddraft&theme=github_dark&show_owner=true" /></a>
-  <a href="https://github.com/grazulex/laravel-snapshot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=grazulex&repo=laravel-snapshot&theme=github_dark&show_owner=true" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/grazulex/laravel-atlas"><img src="https://github-readme-stats.vercel.app/api/pin/?username=grazulex&repo=laravel-atlas&theme=github_dark&show_owner=true" /></a>
-  <a href="https://github.com/grazulex/laravel-configrypt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=grazulex&repo=laravel-configrypt&theme=github_dark&show_owner=true" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/grazulex/laravel-devtoolbox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=grazulex&repo=laravel-devtoolbox&theme=github_dark&show_owner=true" /></a>
-</p>
+| Package                                                                | Description            | Downloads                                                                                                                   | Stars                                                                                                                   | Issues                                                                                                                     |
+| ---------------------------------------------------------------------- | ---------------------- | :-------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: |
+| [`laravel-arc`](https://github.com/grazulex/laravel-arc)               | DTO generation         | [![Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-arc?style=flat&label=)](https://packagist.org/packages/grazulex/laravel-arc)               | [![Stars](https://img.shields.io/github/stars/grazulex/laravel-arc?style=flat&label=)](https://github.com/grazulex/laravel-arc)  | [![Issues](https://img.shields.io/github/issues/grazulex/laravel-arc?style=flat&label=)](https://github.com/grazulex/laravel-arc/issues) |
+| [`laravel-flowpipe`](https://github.com/grazulex/laravel-flowpipe)     | Composable pipelines   | [![Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-flowpipe?style=flat&label=)](https://packagist.org/packages/grazulex/laravel-flowpipe)     | [![Stars](https://img.shields.io/github/stars/grazulex/laravel-flowpipe?style=flat&label=)](https://github.com/grazulex/laravel-flowpipe) | [![Issues](https://img.shields.io/github/issues/grazulex/laravel-flowpipe?style=flat&label=)](https://github.com/grazulex/laravel-flowpipe/issues) |
+| [`laravel-statecraft`](https://github.com/grazulex/laravel-statecraft) | State machines         | [![Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-statecraft?style=flat&label=)](https://packagist.org/packages/grazulex/laravel-statecraft) | [![Stars](https://img.shields.io/github/stars/grazulex/laravel-statecraft?style=flat&label=)](https://github.com/grazulex/laravel-statecraft) | [![Issues](https://img.shields.io/github/issues/grazulex/laravel-statecraft?style=flat&label=)](https://github.com/grazulex/laravel-statecraft/issues) |
+| [`laravel-safeguard`](https://github.com/grazulex/laravel-safeguard)   | Config/security checks | [![Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-safeguard?style=flat&label=)](https://packagist.org/packages/grazulex/laravel-safeguard)   | [![Stars](https://img.shields.io/github/stars/grazulex/laravel-safeguard?style=flat&label=)](https://github.com/grazulex/laravel-safeguard) | [![Issues](https://img.shields.io/github/issues/grazulex/laravel-safeguard?style=flat&label=)](https://github.com/grazulex/laravel-safeguard/issues) |
+| [`laravel-tddraft`](https://github.com/grazulex/laravel-tddraft)       | Testing TDD            | [![Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-tddraft?style=flat&label=)](https://packagist.org/packages/grazulex/laravel-tddraft)       | [![Stars](https://img.shields.io/github/stars/grazulex/laravel-tddraft?style=flat&label=)](https://github.com/grazulex/laravel-tddraft) | [![Issues](https://img.shields.io/github/issues/grazulex/laravel-tddraft?style=flat&label=)](https://github.com/grazulex/laravel-tddraft/issues) |
+| [`laravel-snapshot`](https://github.com/grazulex/laravel-snapshot)     | Model auditing         | [![Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-snapshot?style=flat&label=)](https://packagist.org/packages/grazulex/laravel-snapshot)     | [![Stars](https://img.shields.io/github/stars/grazulex/laravel-snapshot?style=flat&label=)](https://github.com/grazulex/laravel-snapshot) | [![Issues](https://img.shields.io/github/issues/grazulex/laravel-snapshot?style=flat&label=)](https://github.com/grazulex/laravel-snapshot/issues) |
+| [`laravel-atlas`](https://github.com/grazulex/laravel-atlas)           | App mapping            | [![Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-atlas?style=flat&label=)](https://packagist.org/packages/grazulex/laravel-atlas)           | [![Stars](https://img.shields.io/github/stars/grazulex/laravel-atlas?style=flat&label=)](https://github.com/grazulex/laravel-atlas) | [![Issues](https://img.shields.io/github/issues/grazulex/laravel-atlas?style=flat&label=)](https://github.com/grazulex/laravel-atlas/issues) |
+| [`laravel-configrypt`](https://github.com/grazulex/laravel-configrypt) | Security config        | [![Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-configrypt?style=flat&label=)](https://packagist.org/packages/grazulex/laravel-configrypt) | [![Stars](https://img.shields.io/github/stars/grazulex/laravel-configrypt?style=flat&label=)](https://github.com/grazulex/laravel-configrypt) | [![Issues](https://img.shields.io/github/issues/grazulex/laravel-configrypt?style=flat&label=)](https://github.com/grazulex/laravel-configrypt/issues) |
+| [`laravel-devtoolbox`](https://github.com/grazulex/laravel-devtoolbox) | Tools for dev          | [![Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-devtoolbox?style=flat&label=)](https://packagist.org/packages/grazulex/laravel-devtoolbox) | [![Stars](https://img.shields.io/github/stars/grazulex/laravel-devtoolbox?style=flat&label=)](https://github.com/grazulex/laravel-devtoolbox) | [![Issues](https://img.shields.io/github/issues/grazulex/laravel-devtoolbox?style=flat&label=)](https://github.com/grazulex/laravel-devtoolbox/issues) |
 
 ---
 
