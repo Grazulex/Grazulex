@@ -89,44 +89,164 @@
 
 </div>
 
-<table align="center">
+<div align="center">
+
+### 🏗️ **Core Architecture Packages**
+
+<table>
 <tr>
-<td width="50%" valign="top">
-
-### 🏗️ **Core Packages**
-
-| Package | Description | Stats |
-|---------|-------------|-------|
-| **[laravel-arc](https://github.com/grazulex/laravel-arc)** | 🎯 DTO generation made simple | [![Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-arc?style=flat-square&color=success)](https://packagist.org/packages/grazulex/laravel-arc) [![Stars](https://img.shields.io/github/stars/grazulex/laravel-arc?style=flat-square&color=yellow)](https://github.com/grazulex/laravel-arc) |
-| **[laravel-flowpipe](https://github.com/grazulex/laravel-flowpipe)** | 🔄 Composable data pipelines | [![Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-flowpipe?style=flat-square&color=success)](https://packagist.org/packages/grazulex/laravel-flowpipe) [![Stars](https://img.shields.io/github/stars/grazulex/laravel-flowpipe?style=flat-square&color=yellow)](https://github.com/grazulex/laravel-flowpipe) |
-| **[laravel-statecraft](https://github.com/grazulex/laravel-statecraft)** | 🎰 Elegant state machines | [![Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-statecraft?style=flat-square&color=success)](https://packagist.org/packages/grazulex/laravel-statecraft) [![Stars](https://img.shields.io/github/stars/grazulex/laravel-statecraft?style=flat-square&color=yellow)](https://github.com/grazulex/laravel-statecraft) |
-| **[laravel-safeguard](https://github.com/grazulex/laravel-safeguard)** | 🛡️ Security & config validation | [![Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-safeguard?style=flat-square&color=success)](https://packagist.org/packages/grazulex/laravel-safeguard) [![Stars](https://img.shields.io/github/stars/grazulex/laravel-safeguard?style=flat-square&color=yellow)](https://github.com/grazulex/laravel-safeguard) |
-
+<td width="50%" align="center">
+<div align="center">
+<img src="https://raw.githubusercontent.com/grazulex/laravel-arc/main/new_logo.png" width="48" height="48">
+<h4><strong><a href="https://github.com/grazulex/laravel-arc">laravel-arc</a></strong></h4>
+</div>
+<p><em>DTO generation made simple</em></p>
+<p>
+<a href="https://packagist.org/packages/grazulex/laravel-arc"><img src="https://img.shields.io/packagist/dt/grazulex/laravel-arc?style=flat-square&color=success&label=Downloads" alt="Downloads"></a>
+<a href="https://github.com/grazulex/laravel-arc"><img src="https://img.shields.io/github/stars/grazulex/laravel-arc?style=flat-square&color=yellow&label=Stars" alt="Stars"></a>
+<a href="https://github.com/grazulex/laravel-arc/issues"><img src="https://img.shields.io/github/issues/grazulex/laravel-arc?style=flat-square&color=red&label=Issues" alt="Issues"></a>
+</p>
 </td>
-<td width="50%" valign="top">
-
-### 🔧 **Development Tools**
-
-| Package | Description | Stats |
-|---------|-------------|-------|
-| **[laravel-tddraft](https://github.com/grazulex/laravel-tddraft)** | 🧪 TDD made effortless | [![Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-tddraft?style=flat-square&color=success)](https://packagist.org/packages/grazulex/laravel-tddraft) [![Stars](https://img.shields.io/github/stars/grazulex/laravel-tddraft?style=flat-square&color=yellow)](https://github.com/grazulex/laravel-tddraft) |
-| **[laravel-snapshot](https://github.com/grazulex/laravel-snapshot)** | 📸 Smart model auditing | [![Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-snapshot?style=flat-square&color=success)](https://packagist.org/packages/grazulex/laravel-snapshot) [![Stars](https://img.shields.io/github/stars/grazulex/laravel-snapshot?style=flat-square&color=yellow)](https://github.com/grazulex/laravel-snapshot) |
-| **[laravel-atlas](https://github.com/grazulex/laravel-atlas)** | 🗺️ Application mapping | [![Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-atlas?style=flat-square&color=success)](https://packagist.org/packages/grazulex/laravel-atlas) [![Stars](https://img.shields.io/github/stars/grazulex/laravel-atlas?style=flat-square&color=yellow)](https://github.com/grazulex/laravel-atlas) |
-| **[laravel-devtoolbox](https://github.com/grazulex/laravel-devtoolbox)** | 🧰 Developer utilities | [![Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-devtoolbox?style=flat-square&color=success)](https://packagist.org/packages/grazulex/laravel-devtoolbox) [![Stars](https://img.shields.io/github/stars/grazulex/laravel-devtoolbox?style=flat-square&color=yellow)](https://github.com/grazulex/laravel-devtoolbox) |
-| **[laravel-turbomaker](https://github.com/grazulex/laravel-turbomaker)** | 🚀 Full power Maker | [![Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-turbomaker?style=flat-square&color=success)](https://packagist.org/packages/grazulex/laravel-turbomaker) [![Stars](https://img.shields.io/github/stars/grazulex/laravel-turbomaker?style=flat-square&color=yellow)](https://github.com/grazulex/laravel-turbomaker) |
-
+<td width="50%" align="center">
+<div align="center">
+<img src="https://raw.githubusercontent.com/grazulex/laravel-flowpipe/main/new_logo.png" width="48" height="48">
+<h4><strong><a href="https://github.com/grazulex/laravel-flowpipe">laravel-flowpipe</a></strong></h4>
+</div>
+<p><em>Composable data pipelines</em></p>
+<p>
+<a href="https://packagist.org/packages/grazulex/laravel-flowpipe"><img src="https://img.shields.io/packagist/dt/grazulex/laravel-flowpipe?style=flat-square&color=success&label=Downloads" alt="Downloads"></a>
+<a href="https://github.com/grazulex/laravel-flowpipe"><img src="https://img.shields.io/github/stars/grazulex/laravel-flowpipe?style=flat-square&color=yellow&label=Stars" alt="Stars"></a>
+<a href="https://github.com/grazulex/laravel-flowpipe/issues"><img src="https://img.shields.io/github/issues/grazulex/laravel-flowpipe?style=flat-square&color=red&label=Issues" alt="Issues"></a>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<div align="center">
+<img src="https://raw.githubusercontent.com/grazulex/laravel-statecraft/main/new_logo.png" width="48" height="48">
+<h4><strong><a href="https://github.com/grazulex/laravel-statecraft">laravel-statecraft</a></strong></h4>
+</div>
+<p><em>Elegant state machines</em></p>
+<p>
+<a href="https://packagist.org/packages/grazulex/laravel-statecraft"><img src="https://img.shields.io/packagist/dt/grazulex/laravel-statecraft?style=flat-square&color=success&label=Downloads" alt="Downloads"></a>
+<a href="https://github.com/grazulex/laravel-statecraft"><img src="https://img.shields.io/github/stars/grazulex/laravel-statecraft?style=flat-square&color=yellow&label=Stars" alt="Stars"></a>
+<a href="https://github.com/grazulex/laravel-statecraft/issues"><img src="https://img.shields.io/github/issues/grazulex/laravel-statecraft?style=flat-square&color=red&label=Issues" alt="Issues"></a>
+</p>
+</td>
+<td width="50%" align="center">
+<div align="center">
+<img src="https://raw.githubusercontent.com/grazulex/laravel-chronotrace/main/new_logo.png" width="48" height="48">
+<h4><strong><a href="https://github.com/grazulex/laravel-chronotrace">laravel-chronotrace</a></strong></h4>
+</div>
+<p><em>Request recording & replay debugging</em></p>
+<p>
+<a href="https://packagist.org/packages/grazulex/laravel-chronotrace"><img src="https://img.shields.io/packagist/dt/grazulex/laravel-chronotrace?style=flat-square&color=success&label=Downloads" alt="Downloads"></a>
+<a href="https://github.com/grazulex/laravel-chronotrace"><img src="https://img.shields.io/github/stars/grazulex/laravel-chronotrace?style=flat-square&color=yellow&label=Stars" alt="Stars"></a>
+<a href="https://github.com/grazulex/laravel-chronotrace/issues"><img src="https://img.shields.io/github/issues/grazulex/laravel-chronotrace?style=flat-square&color=red&label=Issues" alt="Issues"></a>
+</p>
 </td>
 </tr>
 </table>
 
+### 🔧 **Development & Testing Tools**
+
+<table>
+<tr>
+<td width="50%" align="center">
 <div align="center">
+<img src="https://raw.githubusercontent.com/grazulex/laravel-tddraft/main/new_logo.png" width="48" height="48">
+<h4><strong><a href="https://github.com/grazulex/laravel-tddraft">laravel-tddraft</a></strong></h4>
+</div>
+<p><em>TDD made effortless</em></p>
+<p>
+<a href="https://packagist.org/packages/grazulex/laravel-tddraft"><img src="https://img.shields.io/packagist/dt/grazulex/laravel-tddraft?style=flat-square&color=success&label=Downloads" alt="Downloads"></a>
+<a href="https://github.com/grazulex/laravel-tddraft"><img src="https://img.shields.io/github/stars/grazulex/laravel-tddraft?style=flat-square&color=yellow&label=Stars" alt="Stars"></a>
+<a href="https://github.com/grazulex/laravel-tddraft/issues"><img src="https://img.shields.io/github/issues/grazulex/laravel-tddraft?style=flat-square&color=red&label=Issues" alt="Issues"></a>
+</p>
+</td>
+<td width="50%" align="center">
+<div align="center">
+<img src="https://raw.githubusercontent.com/grazulex/laravel-snapshot/main/new_logo.png" width="48" height="48">
+<h4><strong><a href="https://github.com/grazulex/laravel-snapshot">laravel-snapshot</a></strong></h4>
+</div>
+<p><em>Smart model auditing</em></p>
+<p>
+<a href="https://packagist.org/packages/grazulex/laravel-snapshot"><img src="https://img.shields.io/packagist/dt/grazulex/laravel-snapshot?style=flat-square&color=success&label=Downloads" alt="Downloads"></a>
+<a href="https://github.com/grazulex/laravel-snapshot"><img src="https://img.shields.io/github/stars/grazulex/laravel-snapshot?style=flat-square&color=yellow&label=Stars" alt="Stars"></a>
+<a href="https://github.com/grazulex/laravel-snapshot/issues"><img src="https://img.shields.io/github/issues/grazulex/laravel-snapshot?style=flat-square&color=red&label=Issues" alt="Issues"></a>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<div align="center">
+<img src="https://raw.githubusercontent.com/grazulex/laravel-atlas/main/new_logo.png" width="48" height="48">
+<h4><strong><a href="https://github.com/grazulex/laravel-atlas">laravel-atlas</a></strong></h4>
+</div>
+<p><em>Application mapping</em></p>
+<p>
+<a href="https://packagist.org/packages/grazulex/laravel-atlas"><img src="https://img.shields.io/packagist/dt/grazulex/laravel-atlas?style=flat-square&color=success&label=Downloads" alt="Downloads"></a>
+<a href="https://github.com/grazulex/laravel-atlas"><img src="https://img.shields.io/github/stars/grazulex/laravel-atlas?style=flat-square&color=yellow&label=Stars" alt="Stars"></a>
+<a href="https://github.com/grazulex/laravel-atlas/issues"><img src="https://img.shields.io/github/issues/grazulex/laravel-atlas?style=flat-square&color=red&label=Issues" alt="Issues"></a>
+</p>
+</td>
+<td width="50%" align="center">
+<div align="center">
+<img src="https://raw.githubusercontent.com/grazulex/laravel-devtoolbox/main/new_logo.png" width="48" height="48">
+<h4><strong><a href="https://github.com/grazulex/laravel-devtoolbox">laravel-devtoolbox</a></strong></h4>
+</div>
+<p><em>Developer utilities</em></p>
+<p>
+<a href="https://packagist.org/packages/grazulex/laravel-devtoolbox"><img src="https://img.shields.io/packagist/dt/grazulex/laravel-devtoolbox?style=flat-square&color=success&label=Downloads" alt="Downloads"></a>
+<a href="https://github.com/grazulex/laravel-devtoolbox"><img src="https://img.shields.io/github/stars/grazulex/laravel-devtoolbox?style=flat-square&color=yellow&label=Stars" alt="Stars"></a>
+<a href="https://github.com/grazulex/laravel-devtoolbox/issues"><img src="https://img.shields.io/github/issues/grazulex/laravel-devtoolbox?style=flat-square&color=red&label=Issues" alt="Issues"></a>
+</p>
+</td>
+</tr>
+</table>
 
-### 🔐 **Security Focus**
-**[laravel-configrypt](https://github.com/grazulex/laravel-configrypt)** - *Advanced configuration encryption*
+### 🛡️ **Security & Operations**
 
-[![Downloads](https://img.shields.io/packagist/dt/grazulex/laravel-configrypt?style=for-the-badge&color=success&label=Downloads)](https://packagist.org/packages/grazulex/laravel-configrypt)
-[![Stars](https://img.shields.io/github/stars/grazulex/laravel-configrypt?style=for-the-badge&color=yellow&label=Stars)](https://github.com/grazulex/laravel-configrypt)
-[![Issues](https://img.shields.io/github/issues/grazulex/laravel-configrypt?style=for-the-badge&color=red&label=Issues)](https://github.com/grazulex/laravel-configrypt/issues)
+<table>
+<tr>
+<td width="33%" align="center">
+<div align="center">
+<img src="https://raw.githubusercontent.com/grazulex/laravel-safeguard/main/new_logo.png" width="48" height="48">
+<h4><strong><a href="https://github.com/grazulex/laravel-safeguard">laravel-safeguard</a></strong></h4>
+</div>
+<p><em>Security & config validation</em></p>
+<p>
+<a href="https://packagist.org/packages/grazulex/laravel-safeguard"><img src="https://img.shields.io/packagist/dt/grazulex/laravel-safeguard?style=flat-square&color=success&label=Downloads" alt="Downloads"></a>
+<a href="https://github.com/grazulex/laravel-safeguard"><img src="https://img.shields.io/github/stars/grazulex/laravel-safeguard?style=flat-square&color=yellow&label=Stars" alt="Stars"></a>
+<a href="https://github.com/grazulex/laravel-safeguard/issues"><img src="https://img.shields.io/github/issues/grazulex/laravel-safeguard?style=flat-square&color=red&label=Issues" alt="Issues"></a>
+</p>
+</td>
+<td width="33%" align="center">
+<div align="center">
+<img src="https://raw.githubusercontent.com/grazulex/laravel-configrypt/main/new_logo.png" width="48" height="48">
+<h4><strong><a href="https://github.com/grazulex/laravel-configrypt">laravel-configrypt</a></strong></h4>
+</div>
+<p><em>Advanced configuration encryption</em></p>
+<p>
+<a href="https://packagist.org/packages/grazulex/laravel-configrypt"><img src="https://img.shields.io/packagist/dt/grazulex/laravel-configrypt?style=flat-square&color=success&label=Downloads" alt="Downloads"></a>
+<a href="https://github.com/grazulex/laravel-configrypt"><img src="https://img.shields.io/github/stars/grazulex/laravel-configrypt?style=flat-square&color=yellow&label=Stars" alt="Stars"></a>
+<a href="https://github.com/grazulex/laravel-configrypt/issues"><img src="https://img.shields.io/github/issues/grazulex/laravel-configrypt?style=flat-square&color=red&label=Issues" alt="Issues"></a>
+</p>
+</td>
+<td width="33%" align="center">
+<div align="center">
+<img src="https://raw.githubusercontent.com/grazulex/laravel-turbomaker/main/new_logo.png" width="48" height="48">
+<h4><strong><a href="https://github.com/grazulex/laravel-turbomaker">laravel-turbomaker</a></strong></h4>
+</div>
+<p><em>Full power maker</em></p>
+<p>
+<a href="https://packagist.org/packages/grazulex/laravel-turbomaker"><img src="https://img.shields.io/packagist/dt/grazulex/laravel-turbomaker?style=flat-square&color=success&label=Downloads" alt="Downloads"></a>
+<a href="https://github.com/grazulex/laravel-turbomaker"><img src="https://img.shields.io/github/stars/grazulex/laravel-turbomaker?style=flat-square&color=yellow&label=Stars" alt="Stars"></a>
+<a href="https://github.com/grazulex/laravel-turbomaker/issues"><img src="https://img.shields.io/github/issues/grazulex/laravel-turbomaker?style=flat-square&color=red&label=Issues" alt="Issues"></a>
+</p>
+</td>
+</tr>
+</table>
 
 </div>
 
