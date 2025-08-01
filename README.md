@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28&height=200&section=header&text=Jean-Marc%20Strauven&fontSize=50&fontAlignY=35&desc=@grazulex%20•%20Laravel%20Artisan%20•%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18"/>
+  <img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,11,12,2&height=200&section=header&text=Jean-Marc%20Strauven&fontSize=50&fontAlignY=35&desc=@grazulex%20•%20Laravel%20Artisan%20•%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18"/>
 </div>
 
 <div align="center">
@@ -310,5 +310,5 @@ mindmap
 </div>
 
 <div align="center">
-  <img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28&height=120&section=footer"/>
+  <img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,11,12,2&height=120&section=footer"/>
 </div>
