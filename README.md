@@ -247,6 +247,8 @@
 <a href="https://github.com/grazulex/laravel-configrypt/issues"><img src="https://img.shields.io/github/issues/grazulex/laravel-configrypt?style=flat-square&color=red&label=Issues" alt="Issues"></a>
 </p>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center">
 <div align="center">
 <img src="https://raw.githubusercontent.com/grazulex/laravel-turbomaker/main/new_logo.png" width="48" height="48">
