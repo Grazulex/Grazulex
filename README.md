@@ -145,6 +145,18 @@
 <a href="https://github.com/grazulex/laravel-chronotrace/issues"><img src="https://img.shields.io/github/issues/grazulex/laravel-chronotrace?style=flat-square&color=red&label=Issues" alt="Issues"></a>
 </p>
 </td>
+<td width="50%" align="center">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/grazulex/laravel-modelschema/main/new_logo.png" width="48" height="48">
+  <h4><strong><a href="https://github.com/grazulex/laravel-modelschema">laravel-modelschema</a></strong></h4>
+</div>
+<p><em>Unified YAML model schemas</em></p>
+<p>
+  <a href="https://packagist.org/packages/grazulex/laravel-modelschema"><img src="https://img.shields.io/packagist/dt/grazulex/laravel-modelschema?style=flat-square&color=success&label=Downloads" alt="Downloads"></a>
+  <a href="https://github.com/grazulex/laravel-modelschema"><img src="https://img.shields.io/github/stars/grazulex/laravel-modelschema?style=flat-square&color=yellow&label=Stars" alt="Stars"></a>
+  <a href="https://github.com/grazulex/laravel-modelschema/issues"><img src="https://img.shields.io/github/issues/grazulex/laravel-modelschema?style=flat-square&color=red&label=Issues" alt="Issues"></a>
+</p>
+</td>  
 </tr>
 </table>
 
