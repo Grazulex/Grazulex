@@ -145,6 +145,8 @@
 <a href="https://github.com/grazulex/laravel-chronotrace/issues"><img src="https://img.shields.io/github/issues/grazulex/laravel-chronotrace?style=flat-square&color=red&label=Issues" alt="Issues"></a>
 </p>
 </td>
+</tr>
+ <tr> 
 <td width="50%" align="center">
 <div align="center">
   <img src="https://raw.githubusercontent.com/grazulex/laravel-modelschema/main/new_logo.png" width="48" height="48">
