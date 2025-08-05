@@ -261,6 +261,20 @@
 <a href="https://github.com/grazulex/laravel-turbomaker/issues"><img src="https://img.shields.io/github/issues/grazulex/laravel-turbomaker?style=flat-square&color=red&label=Issues" alt="Issues"></a>
 </p>
 </td>
+
+<td width="33%" align="center">
+<div align="center">
+<img src="https://raw.githubusercontent.com/grazulex/laravel-multipersona/main/new_logo.png" width="48" height="48">
+<h4><strong><a href="https://github.com/grazulex/laravel-multipersona">laravel-multipersona</a></strong></h4>
+</div>
+<p><em>Lightweight context-layer</em></p>
+<p>
+<a href="https://packagist.org/packages/grazulex/laravel-multipersona"><img src="https://img.shields.io/packagist/dt/grazulex/laravel-multipersona?style=flat-square&color=success&label=Downloads" alt="Downloads"></a>
+<a href="https://github.com/grazulex/laravel-multipersona"><img src="https://img.shields.io/github/stars/grazulex/laravel-multipersona?style=flat-square&color=yellow&label=Stars" alt="Stars"></a>
+<a href="https://github.com/grazulex/laravel-multipersona/issues"><img src="https://img.shields.io/github/issues/grazulex/laravel-multipersona?style=flat-square&color=red&label=Issues" alt="Issues"></a>
+</p>
+</td>
+  
 </tr>
 </table>
 
