@@ -299,7 +299,7 @@
 <td width="33%" align="center">
 <div align="center">
 <img src="https://raw.githubusercontent.com/grazulex/laravel-sharelink/main/new_logo.png" width="48" height="48">
-<h4><strong><a href="https://github.com/grazulex/laravel-turbomaker">laravel-sharelink</a></strong></h4>
+<h4><strong><a href="https://github.com/grazulex/laravel-sharelink">laravel-sharelink</a></strong></h4>
 </div>
 <p><em>Temporary share links</em></p>
 <p>
