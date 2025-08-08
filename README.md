@@ -159,6 +159,22 @@
   <a href="https://github.com/grazulex/laravel-modelschema/issues"><img src="https://img.shields.io/github/issues/grazulex/laravel-modelschema?style=flat-square&color=red&label=Issues" alt="Issues"></a>
 </p>
 </td>  
+
+
+<td width="50%" align="center">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/grazulex/laravel-draftable/main/new_logo.png" width="48" height="48">
+  <h4><strong><a href="https://github.com/grazulex/laravel-draftable">laravel-draftable</a></strong></h4>
+</div>
+<p><em>Draft & publish your model</em></p>
+<p>
+  <a href="https://packagist.org/packages/grazulex/laravel-draftable"><img src="https://img.shields.io/packagist/dt/grazulex/laravel-draftable?style=flat-square&color=success&label=Downloads" alt="Downloads"></a>
+  <a href="https://github.com/grazulex/laravel-draftable"><img src="https://img.shields.io/github/stars/grazulex/laravel-draftable?style=flat-square&color=yellow&label=Stars" alt="Stars"></a>
+  <a href="https://github.com/grazulex/laravel-draftable/issues"><img src="https://img.shields.io/github/issues/grazulex/laravel-draftable?style=flat-square&color=red&label=Issues" alt="Issues"></a>
+</p>
+</td>  
+
+   
 </tr>
 </table>
 
