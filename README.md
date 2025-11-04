@@ -49,7 +49,7 @@ Creator of **17+ open-source Laravel packages** with **6,000+ downloads** used b
 **Available for freelance projects & consulting**
 
 - 📧 Email: [jms@grazulex.be](mailto:jms@grazulex.be)
-- 💼 LinkedIn: [Jean-Marc Strauven](https://www.linkedin.com/in/jean-marcstrauven)
+- 💼 LinkedIn: [Jean-Marc Strauven](https://www.linkedin.com/in/jean-marc-strauven)
 - 💻 Malt: [Find me on Malt](https://www.malt.be)
 
 💡 **Need help with a complex Laravel project?** Let's talk!
