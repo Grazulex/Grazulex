@@ -2,7 +2,8 @@
 
 🚀 **Laravel Package Creator** | 💼 **Available for Consulting**
 
-Creator of **17+ open-source Laravel packages** with **6,000+ downloads** used by development teams worldwide.
+Creator of **17+ open-source Laravel packages** with **6,000+ downloads** used by development teams worldwide.  
+I also build SaaS tools and developer utilities — explore them on [**Grazulex.be**](https://grazulex.be).
 
 ---
 
@@ -33,6 +34,16 @@ Creator of **17+ open-source Laravel packages** with **6,000+ downloads** used b
 
 ---
 
+## 🧠 My Developer Tools
+
+Beyond open-source, I create SaaS platforms and CLI utilities to empower developers:
+
+- 🧭 [**RepoSentinel**](https://reposentinel.com): Track your repositories, dependencies & security at scale  
+- ✅ [**BackMark**](https://backmark.tech): Markdown-native CLI task manager for AI-powered workflows  
+- 🌐 [**Grazulex.be**](https://grazulex.be): My official hub — discover all my projects, articles & tools  
+
+---
+
 ## 🛠️ Tech Stack
 
 **Backend:** Laravel, Symfony, PHP 8.3+, MySQL, PostgreSQL  
@@ -51,6 +62,7 @@ Creator of **17+ open-source Laravel packages** with **6,000+ downloads** used b
 - 📧 Email: [jms@grazulex.be](mailto:jms@grazulex.be)
 - 💼 LinkedIn: [Jean-Marc Strauven](https://www.linkedin.com/in/jean-marc-strauven)
 - 💻 Malt: [Find me on Malt](https://www.malt.be)
+- 🌐 Website: [https://grazulex.be](https://grazulex.be)
 
 💡 **Need help with a complex Laravel project?** Let's talk!
 
