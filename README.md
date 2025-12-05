@@ -69,12 +69,6 @@
 
   ---
 
-  ## 📊 GitHub Stats
-
-  ![Jean-Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grazulex&show_icons=true&theme=dark)
-
-  ---
-
   ⭐ **If you use my packages, consider giving them a star!** It helps others discover them.
 
   💖 **Want to support my open-source work?** [Sponsor me on GitHub](https://github.com/sponsors/Grazulex)
