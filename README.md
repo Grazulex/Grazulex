@@ -12,12 +12,13 @@ I also build SaaS tools and developer utilities — explore them on [**Grazulex.
 
 | Package | Downloads | Stars | Description |
 |---------|-----------|-------|-------------|
-| [**Laravel DevToolbox**](https://github.com/Grazulex/laravel-devtoolbox) | 3,322+ | ⭐ 139 | Swiss-army CLI for Laravel — scan, inspect, and debug |
-| [**Laravel Atlas**](https://github.com/Grazulex/laravel-atlas) | 918+ | ⭐ 9 | Generate complete project documentation automatically |
-| [**Laravel ShareLink**](https://github.com/Grazulex/laravel-sharelink) | 413+ | ⭐ 106 | Secure temporary share links for files and routes |
-| [**Laravel Draftable**](https://github.com/Grazulex/laravel-draftable) | 120+ | ⭐ 17 | Add drafts, versioning & publication workflows |
-| [**Laravel ChronoTrace**](https://github.com/Grazulex/laravel-chronotrace) | 62+ | ⭐ 120 | Record and replay Laravel requests for testing |
-| [**Laravel ApiRoute**](https://github.com/Grazulex/laravel-apiroute) | New | ⭐ 1 | Complete API versioning lifecycle management |
+| [**Laravel DevToolbox**](https://github.com/Grazulex/laravel-devtoolbox) | 3,600+ | ⭐ 143 | Swiss-army CLI for Laravel — scan, inspect, and debug |
+| [**Laravel Atlas**](https://github.com/Grazulex/laravel-atlas) | 930+ | ⭐ 10 | Generate complete project documentation automatically |
+| [**Laravel ShareLink**](https://github.com/Grazulex/laravel-sharelink) | 590+ | ⭐ 110 | Secure temporary share links for files and routes |
+| [**Laravel ChronoTrace**](https://github.com/Grazulex/laravel-chronotrace) | 115+ | ⭐ 129 | Record and replay Laravel requests for testing |
+| [**Laravel MultiPersona**](https://github.com/Grazulex/laravel-multipersona) | 144+ | ⭐ 93 | Dynamic role/tenant switching for users |
+| [**Laravel Draftable**](https://github.com/Grazulex/laravel-draftable) | 130+ | ⭐ 18 | Add drafts, versioning & publication workflows |
+| [**Laravel ApiRoute**](https://github.com/Grazulex/laravel-apiroute) | New | ⭐ 5 | Complete API versioning lifecycle management |
 
 [📦 **See all my packages →**](https://github.com/Grazulex?tab=repositories&q=laravel-&type=&language=&sort=)
 
